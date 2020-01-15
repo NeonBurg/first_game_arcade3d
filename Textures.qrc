@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/Textures">
+        <file>Textures/Two.png</file>
+        <file>Textures/Eight.png</file>
+        <file>Textures/Five.png</file>
+        <file>Textures/Four.png</file>
+        <file>Textures/Nine.png</file>
+        <file>Textures/One.png</file>
+        <file>Textures/Score.png</file>
+        <file>Textures/Seven.png</file>
+        <file>Textures/Six.png</file>
+        <file>Textures/Three.png</file>
+        <file>Textures/Zero.png</file>
+        <file>Textures/Exit.png</file>
+        <file>Textures/Play.png</file>
+        <file>Textures/GO.png</file>
+        <file>Textures/Game_Over.png</file>
+    </qresource>
+</RCC>
