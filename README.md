@@ -1,1 +1,1 @@
-# first_game_arcade3d
+# Аркадная игра 3D [QtCreator, C++, OpenGL]
